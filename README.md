@@ -12,7 +12,8 @@ Konvilo connects clients with healthcare professionals through a secure, encrypt
 |----------|----------|
 | Windows | [konvilo-setup.exe — latest release](https://github.com/Macroza/konvilo-releases/releases/latest) |
 | macOS | [konvilo.dmg — latest release](https://github.com/Macroza/konvilo-releases/releases/latest) |
-| Linux | [konvilo.AppImage — latest release](https://github.com/Macroza/konvilo-releases/releases/latest) |
+
+[//]: # (| Linux | [konvilo.AppImage — latest release]&#40;https://github.com/Macroza/konvilo-releases/releases/latest&#41; |)
 
 Konvilo is also available on **Android** and **iOS** — check the Releases page for links.
 
