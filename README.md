@@ -11,8 +11,7 @@ Konvilo connects clients with professionals through a secure, encrypted messagin
 | Platform | Download |
 |----------|----------|
 | Windows | [konvilo-setup.exe — latest release](https://github.com/Macroza/konvilo-releases/releases/latest) |
-| macOS | [konvilo.dmg — latest release](https://github.com/Macroza/konvilo-releases/releases/latest) |
-| Linux | [konvilo.AppImage — latest release](https://github.com/Macroza/konvilo-releases/releases/latest) |
+| macOS | [konvilo.dmg — latest release](https://github.com/Macroza/konvilo-releases/releases/latest)
 
 Konvilo is also available on **Android** and **iOS** — check the Releases page for links.
 
@@ -47,7 +46,7 @@ Konvilo puts you in control of your time and your rates.
 - **Earn transparently** — track your earnings per client and per package from your dashboard
 - **Team chats with colleagues** — create private group conversations with other professionals on the platform (free, no billing)
 - **Manage your public profile** — specialty, bio, and package offerings visible to all clients
-- **Work from any device** — Android, iOS, or the desktop app for Windows, macOS, and Linux
+- **Work from any device** — Android, iOS, or the desktop app for Windows and macOS
 
 ### How it works for professionals
 
@@ -110,4 +109,4 @@ Open a ticket on the [Issues page](https://github.com/Macroza/konvilo-releases/i
 
 ---
 
-*Konvilo is developed by Macroza. Desktop builds are distributed here for Windows, macOS, and Linux.*
+*Konvilo is developed by Macroza. Desktop builds are distributed here for Windows and macOS.*
