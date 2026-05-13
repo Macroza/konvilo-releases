@@ -1,4 +1,4 @@
-# Konvilo — Secure Healthcare Messaging
+# Konvilo — Secure Messaging
 
 **Private consultations. Your terms.**
 
